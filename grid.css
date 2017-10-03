@@ -1,1 +1,17 @@
+*{
+box-sizing: border-box;
+}
 
+div{
+background-color: purple;
+height: 500%;
+display: inline-block;
+}
+
+.menu{
+width: 25%;
+}
+
+.main{
+width: 75%;
+}
